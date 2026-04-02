@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/themegenix.net/html/suxnix/index.html" }
+  ]
+}
