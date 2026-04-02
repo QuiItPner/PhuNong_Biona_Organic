@@ -1,14 +1,8 @@
 {
-  "redirects": [
+  "rewrites": [
     {
-      "source": "/themegenix.net/html/suxnix",
-      "destination": "/themegenix.net/html/suxnix/index.html",
-      "permanent": true
-    },
-    {
-      "source": "/",
-      "destination": "/themegenix.net/html/suxnix/index.html",
-      "permanent": false
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
